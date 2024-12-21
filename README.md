@@ -8,7 +8,7 @@
 
     - Δ𝒍: distance the spring is extended or compressed
 
-    - 𝒌: spring constant (stiffness of the
+    - 𝒌: spring constant (stiffness of the spring)
 
     - 𝒍𝟎: rest length  no forces acting to extend or compress the spring
 
